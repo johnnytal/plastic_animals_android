@@ -1,0 +1,107 @@
+	{ 
+		
+		"fox": [
+			
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   63, 49.5  ,  72, 49.5  ,  64, 57.5  ,  60, 57.5  ,  58.5, 51  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   111, 53.5  ,  93, 39.5  ,  97, 24.5  ,  113, 36.5  ,  116.5, 43  ,  116.5, 51  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   66, 46.5  ,  72, 49.5  ,  63, 49.5  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   22.5, 64  ,  30, 59.5  ,  36.5, 65  ,  30, 69.5  ,  23, 68.5  ,  21.5, 66  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   30, 59.5  ,  30, 50.5  ,  30.5, 47  ,  43, 47.5  ,  36.5, 65  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   27.5, 2  ,  28.5, 14  ,  9.5, 29  ,  16, 4.5  ,  23, -0.5  ,  26, -0.5  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   80, 62.5  ,  81.5, 55  ,  87, 45.5  ,  89.5, 53  ,  89.5, 59  ,  85.5, 64  ,  82, 64.5  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   81.5, 55  ,  80, 62.5  ,  78.5, 60  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   30, 50.5  ,  30, 59.5  ,  26, 56.5  ,  25.5, 54  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   1, 0.5  ,  6, 0.5  ,  12, 4.5  ,  4.5, 12  ,  -0.5, 5  ,  -0.5, 1  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   84, 34.5  ,  84, 21.5  ,  86, 20.5  ,  97, 24.5  ,  93, 39.5  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   2.5, 19  ,  4.5, 12  ,  12, 4.5  ,  16, 4.5  ,  9.5, 29  ,  5, 26.5  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   66.5, 45  ,  82.5, 42  ,  74, 49.5  ,  72, 49.5  ,  66, 46.5  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   84, 21.5  ,  84, 34.5  ,  76, 19.5  ,  78, 18.5  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   43, 47.5  ,  9.5, 32  ,  9.5, 29  ,  34, 17.5  ,  65, 44.5  ,  55, 48.5  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   16, 40.5  ,  9.5, 32  ,  43, 47.5  ,  30.5, 47  ,  23, 45.5  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   84, 34.5  ,  82.5, 42  ,  66.5, 45  ,  65, 44.5  ,  34, 17.5  ,  68, 17.5  ,  76, 19.5  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   81.5, 55  ,  80.5, 53  ,  82.5, 42  ,  87, 45.5  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   74, 49.5  ,  82.5, 42  ,  80.5, 53  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   34, 17.5  ,  9.5, 29  ,  28.5, 14  ]
+				}  
+		]
+		
+	}
