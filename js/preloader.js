@@ -22,7 +22,6 @@ preloader.prototype = {
         //this.load.setPreloadSprite(loadingBar);
 
         // load assets
-        game.load.image('anteater', 'images/plastic/anteater.png');
         game.load.image('ape', 'images/plastic/ape.png');
         game.load.image('bear', 'images/plastic/bear.png');
         game.load.image('camel', 'images/plastic/camel.png');
@@ -57,7 +56,6 @@ preloader.prototype = {
         game.load.physics('foxJson', 'json/foxJson.json');
         game.load.physics('lionJson', 'json/lionJson.json');
         game.load.physics('mooseJson', 'json/mooseJson.json');
-        game.load.physics('anteaterJson', 'json/anteaterJson.json');
         game.load.physics('rodentJson', 'json/rodentJson.json');
         game.load.physics('zebraJson', 'json/zebraJson.json');
         game.load.physics('bearJson', 'json/bearJson.json');
@@ -79,7 +77,7 @@ preloader.prototype = {
     },
     
     create: function(){
-
+    
     }, 
     
     update: function(){

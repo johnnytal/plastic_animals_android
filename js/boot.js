@@ -1,6 +1,6 @@
 window.onload = function(){
-    WIDTH = 769; 
-    HEIGHT = 600;
+    WIDTH = 540; 
+    HEIGHT = 1000;
     
     w = window.innerWidth * window.devicePixelRatio;
     h = window.innerHeight * window.devicePixelRatio;
@@ -34,7 +34,7 @@ boot.prototype = {
             this.scale.maxWidth = w / factor; 
             this.scale.maxHeight = h / factor; 
             
-            this.game.scale.pageAlignHorizontally = true;
+            this.game.scale.pageAlignHorizontally = false;
             this.game.scale.setScreenSize(true);
         } 
         

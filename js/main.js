@@ -43,8 +43,7 @@ game_main.prototype = {
         animals.physicsBodyType = Phaser.Physics.P2JS;
         
         yStart = 800;
-         
-        anteater = animals.create(coX[Math.round(Math.random()*7)], yStart, 'anteater');
+
         ape = animals.create(coX[Math.round(Math.random()*7)], yStart, 'ape');
         bear = animals.create(coX[Math.round(Math.random()*7)], yStart, 'bear');
         camel = animals.create(coX[Math.round(Math.random()*7)], yStart, 'camel');
@@ -203,8 +202,6 @@ function loadPolygons(){
     tiger.body.loadPolygon('tigerJson', 'tiger');
     rodent.body.clearShapes();
     rodent.body.loadPolygon('rodentJson', 'rodent');
-    anteater.body.clearShapes();
-    anteater.body.loadPolygon('anteaterJson', 'anteater');
     bear.body.clearShapes();
     bear.body.loadPolygon('bearJson', 'bear');
     lion.body.clearShapes();
